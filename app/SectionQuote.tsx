@@ -71,7 +71,7 @@ export default function SectionQuote() {
                 ))}
             </div>
             <motion.p initial={{ y: 100, opacity: 0 }} animate={inView ? { y: 0, opacity: 1 } : {}} transition={{ duration: 0.5, delay: 0.5 }} className={styles.creatorQuotesName} style={suarte.style}>
-                Deri kurniawan
+                Darshil Dhandhiya
             </motion.p>
         </section >
     )

@@ -742,64 +742,12 @@
         "async": false
       }
     },
-    "(app-client)/./components/Navbar.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/Navbar.tsx",
-        "name": "*",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/Navbar.tsx",
-        "name": "",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/Navbar.tsx",
-        "name": "default",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/link.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
     "(app-client)/./assets/images/home/hero/avatar-smile.webp": {
       "*": {
         "id": "(sc_client)/./assets/images/home/hero/avatar-smile.webp",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -807,7 +755,7 @@
         "id": "(sc_client)/./assets/images/home/hero/avatar-smile.webp",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -815,7 +763,7 @@
         "id": "(sc_client)/./assets/images/home/hero/avatar-smile.webp",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
@@ -825,7 +773,7 @@
         "id": "(sc_client)/./assets/images/home/hero/dribble.webp",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -833,7 +781,7 @@
         "id": "(sc_client)/./assets/images/home/hero/dribble.webp",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -841,7 +789,7 @@
         "id": "(sc_client)/./assets/images/home/hero/dribble.webp",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
@@ -851,7 +799,7 @@
         "id": "(sc_client)/./assets/images/home/hero/github.webp",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -859,7 +807,7 @@
         "id": "(sc_client)/./assets/images/home/hero/github.webp",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -867,7 +815,7 @@
         "id": "(sc_client)/./assets/images/home/hero/github.webp",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
@@ -877,7 +825,7 @@
         "id": "(sc_client)/./assets/images/home/hero/instagram.webp",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -885,7 +833,7 @@
         "id": "(sc_client)/./assets/images/home/hero/instagram.webp",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -893,7 +841,7 @@
         "id": "(sc_client)/./assets/images/home/hero/instagram.webp",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
@@ -903,7 +851,7 @@
         "id": "(sc_client)/./assets/images/home/hero/linkedin.webp",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -911,7 +859,7 @@
         "id": "(sc_client)/./assets/images/home/hero/linkedin.webp",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -919,7 +867,7 @@
         "id": "(sc_client)/./assets/images/home/hero/linkedin.webp",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
@@ -929,7 +877,7 @@
         "id": "(sc_client)/./assets/images/home/hero/quadrilateral.webp",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -937,7 +885,7 @@
         "id": "(sc_client)/./assets/images/home/hero/quadrilateral.webp",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -945,7 +893,7 @@
         "id": "(sc_client)/./assets/images/home/hero/quadrilateral.webp",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
@@ -955,7 +903,7 @@
         "id": "(sc_client)/./assets/images/home/hero/triangle.webp",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -963,7 +911,7 @@
         "id": "(sc_client)/./assets/images/home/hero/triangle.webp",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -971,7 +919,7 @@
         "id": "(sc_client)/./assets/images/home/hero/triangle.webp",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
@@ -981,7 +929,7 @@
         "id": "(sc_client)/./assets/images/home/hero/twisted-torus.webp",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -989,7 +937,7 @@
         "id": "(sc_client)/./assets/images/home/hero/twisted-torus.webp",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -997,7 +945,7 @@
         "id": "(sc_client)/./assets/images/home/hero/twisted-torus.webp",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
@@ -1007,7 +955,7 @@
         "id": "(sc_client)/./assets/images/home/hero/zig-zag.webp",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1015,7 +963,7 @@
         "id": "(sc_client)/./assets/images/home/hero/zig-zag.webp",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1023,7 +971,7 @@
         "id": "(sc_client)/./assets/images/home/hero/zig-zag.webp",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
@@ -1033,7 +981,7 @@
         "id": "(sc_client)/./assets/images/home/letsConnect/avatar-big-smile.webp",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1041,7 +989,7 @@
         "id": "(sc_client)/./assets/images/home/letsConnect/avatar-big-smile.webp",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1049,137 +997,137 @@
         "id": "(sc_client)/./assets/images/home/letsConnect/avatar-big-smile.webp",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./assets/images/home/letsConnect/dribble.webp": {
+    "(app-client)/./assets/images/home/letsConnect/github.png": {
       "*": {
-        "id": "(sc_client)/./assets/images/home/letsConnect/dribble.webp",
+        "id": "(sc_client)/./assets/images/home/letsConnect/github.png",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./assets/images/home/letsConnect/dribble.webp",
+        "id": "(sc_client)/./assets/images/home/letsConnect/github.png",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./assets/images/home/letsConnect/dribble.webp",
+        "id": "(sc_client)/./assets/images/home/letsConnect/github.png",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./assets/images/home/letsConnect/github.webp": {
+    "(app-client)/./assets/images/home/letsConnect/gmail.png": {
       "*": {
-        "id": "(sc_client)/./assets/images/home/letsConnect/github.webp",
+        "id": "(sc_client)/./assets/images/home/letsConnect/gmail.png",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./assets/images/home/letsConnect/github.webp",
+        "id": "(sc_client)/./assets/images/home/letsConnect/gmail.png",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./assets/images/home/letsConnect/github.webp",
+        "id": "(sc_client)/./assets/images/home/letsConnect/gmail.png",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./assets/images/home/letsConnect/gmail.webp": {
+    "(app-client)/./assets/images/home/letsConnect/linkedin.png": {
       "*": {
-        "id": "(sc_client)/./assets/images/home/letsConnect/gmail.webp",
+        "id": "(sc_client)/./assets/images/home/letsConnect/linkedin.png",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./assets/images/home/letsConnect/gmail.webp",
+        "id": "(sc_client)/./assets/images/home/letsConnect/linkedin.png",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./assets/images/home/letsConnect/gmail.webp",
+        "id": "(sc_client)/./assets/images/home/letsConnect/linkedin.png",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./assets/images/home/letsConnect/instagram.webp": {
+    "(app-client)/./assets/images/home/letsConnect/medium.png": {
       "*": {
-        "id": "(sc_client)/./assets/images/home/letsConnect/instagram.webp",
+        "id": "(sc_client)/./assets/images/home/letsConnect/medium.png",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./assets/images/home/letsConnect/instagram.webp",
+        "id": "(sc_client)/./assets/images/home/letsConnect/medium.png",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./assets/images/home/letsConnect/instagram.webp",
+        "id": "(sc_client)/./assets/images/home/letsConnect/medium.png",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./assets/images/home/letsConnect/linkedin.webp": {
+    "(app-client)/./assets/images/home/letsConnect/x.png": {
       "*": {
-        "id": "(sc_client)/./assets/images/home/letsConnect/linkedin.webp",
+        "id": "(sc_client)/./assets/images/home/letsConnect/x.png",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./assets/images/home/letsConnect/linkedin.webp",
+        "id": "(sc_client)/./assets/images/home/letsConnect/x.png",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./assets/images/home/letsConnect/linkedin.webp",
+        "id": "(sc_client)/./assets/images/home/letsConnect/x.png",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
@@ -1189,7 +1137,7 @@
         "id": "(sc_client)/./assets/images/home/myLatestProject/figma.webp",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1197,7 +1145,7 @@
         "id": "(sc_client)/./assets/images/home/myLatestProject/figma.webp",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1205,33 +1153,137 @@
         "id": "(sc_client)/./assets/images/home/myLatestProject/figma.webp",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./assets/images/home/myLatestProject/projects/portfolio-website.webp": {
+    "(app-client)/./assets/images/home/myLatestProject/projects/1.png": {
       "*": {
-        "id": "(sc_client)/./assets/images/home/myLatestProject/projects/portfolio-website.webp",
+        "id": "(sc_client)/./assets/images/home/myLatestProject/projects/1.png",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./assets/images/home/myLatestProject/projects/portfolio-website.webp",
+        "id": "(sc_client)/./assets/images/home/myLatestProject/projects/1.png",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./assets/images/home/myLatestProject/projects/portfolio-website.webp",
+        "id": "(sc_client)/./assets/images/home/myLatestProject/projects/1.png",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./assets/images/home/myLatestProject/projects/2.png": {
+      "*": {
+        "id": "(sc_client)/./assets/images/home/myLatestProject/projects/2.png",
+        "name": "*",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./assets/images/home/myLatestProject/projects/2.png",
+        "name": "",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./assets/images/home/myLatestProject/projects/2.png",
+        "name": "default",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./assets/images/home/myLatestProject/projects/3.png": {
+      "*": {
+        "id": "(sc_client)/./assets/images/home/myLatestProject/projects/3.png",
+        "name": "*",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./assets/images/home/myLatestProject/projects/3.png",
+        "name": "",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./assets/images/home/myLatestProject/projects/3.png",
+        "name": "default",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./assets/images/home/myLatestProject/projects/4.png": {
+      "*": {
+        "id": "(sc_client)/./assets/images/home/myLatestProject/projects/4.png",
+        "name": "*",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./assets/images/home/myLatestProject/projects/4.png",
+        "name": "",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./assets/images/home/myLatestProject/projects/4.png",
+        "name": "default",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./assets/images/home/myLatestProject/projects/5.png": {
+      "*": {
+        "id": "(sc_client)/./assets/images/home/myLatestProject/projects/5.png",
+        "name": "*",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./assets/images/home/myLatestProject/projects/5.png",
+        "name": "",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./assets/images/home/myLatestProject/projects/5.png",
+        "name": "default",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
@@ -1241,7 +1293,7 @@
         "id": "(sc_client)/./assets/images/home/myLatestProject/rocket.webp",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1249,7 +1301,7 @@
         "id": "(sc_client)/./assets/images/home/myLatestProject/rocket.webp",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1257,7 +1309,7 @@
         "id": "(sc_client)/./assets/images/home/myLatestProject/rocket.webp",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
@@ -1267,7 +1319,7 @@
         "id": "(sc_client)/./assets/images/home/myLatestProject/suitcase.webp",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1275,7 +1327,7 @@
         "id": "(sc_client)/./assets/images/home/myLatestProject/suitcase.webp",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1283,7 +1335,7 @@
         "id": "(sc_client)/./assets/images/home/myLatestProject/suitcase.webp",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
@@ -1293,7 +1345,7 @@
         "id": "(sc_client)/./assets/images/home/quote/bulb.webp",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1301,7 +1353,7 @@
         "id": "(sc_client)/./assets/images/home/quote/bulb.webp",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1309,7 +1361,7 @@
         "id": "(sc_client)/./assets/images/home/quote/bulb.webp",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
@@ -1319,7 +1371,7 @@
         "id": "(sc_client)/./assets/images/home/quote/heart.webp",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1327,7 +1379,7 @@
         "id": "(sc_client)/./assets/images/home/quote/heart.webp",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1335,7 +1387,7 @@
         "id": "(sc_client)/./assets/images/home/quote/heart.webp",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
@@ -1345,7 +1397,7 @@
         "id": "(sc_client)/./assets/images/home/quote/paint-kit.webp",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1353,7 +1405,7 @@
         "id": "(sc_client)/./assets/images/home/quote/paint-kit.webp",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1361,7 +1413,7 @@
         "id": "(sc_client)/./assets/images/home/quote/paint-kit.webp",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
@@ -1371,7 +1423,7 @@
         "id": "(sc_client)/./assets/images/home/quote/tea-cup.webp",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1379,7 +1431,7 @@
         "id": "(sc_client)/./assets/images/home/quote/tea-cup.webp",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1387,293 +1439,449 @@
         "id": "(sc_client)/./assets/images/home/quote/tea-cup.webp",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./assets/images/home/technologyStack/expo.webp": {
+    "(app-client)/./assets/images/home/technologyStack/aws.png": {
       "*": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/expo.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/aws.png",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/expo.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/aws.png",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/expo.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/aws.png",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./assets/images/home/technologyStack/express-js.webp": {
+    "(app-client)/./assets/images/home/technologyStack/canva.png": {
       "*": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/express-js.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/canva.png",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/express-js.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/canva.png",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/express-js.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/canva.png",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./assets/images/home/technologyStack/javascript.webp": {
+    "(app-client)/./assets/images/home/technologyStack/css.png": {
       "*": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/javascript.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/css.png",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/javascript.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/css.png",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/javascript.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/css.png",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./assets/images/home/technologyStack/laravel.webp": {
+    "(app-client)/./assets/images/home/technologyStack/figma.png": {
       "*": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/laravel.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/figma.png",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/laravel.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/figma.png",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/laravel.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/figma.png",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./assets/images/home/technologyStack/next-js.webp": {
+    "(app-client)/./assets/images/home/technologyStack/git.png": {
       "*": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/next-js.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/git.png",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/next-js.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/git.png",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/next-js.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/git.png",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./assets/images/home/technologyStack/planet-scale.webp": {
+    "(app-client)/./assets/images/home/technologyStack/github.png": {
       "*": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/planet-scale.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/github.png",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/planet-scale.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/github.png",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/planet-scale.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/github.png",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./assets/images/home/technologyStack/prisma.webp": {
+    "(app-client)/./assets/images/home/technologyStack/html.png": {
       "*": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/prisma.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/html.png",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/prisma.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/html.png",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/prisma.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/html.png",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./assets/images/home/technologyStack/react-js.webp": {
+    "(app-client)/./assets/images/home/technologyStack/java.png": {
       "*": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/react-js.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/java.png",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/react-js.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/java.png",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/react-js.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/java.png",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./assets/images/home/technologyStack/react-native.webp": {
+    "(app-client)/./assets/images/home/technologyStack/js.png": {
       "*": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/react-native.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/js.png",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/react-native.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/js.png",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/react-native.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/js.png",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./assets/images/home/technologyStack/tailwindcss.webp": {
+    "(app-client)/./assets/images/home/technologyStack/mongodb.png": {
       "*": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/tailwindcss.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/mongodb.png",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/tailwindcss.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/mongodb.png",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/tailwindcss.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/mongodb.png",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./assets/images/home/technologyStack/typescript.webp": {
+    "(app-client)/./assets/images/home/technologyStack/nodejs.png": {
       "*": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/typescript.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/nodejs.png",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/typescript.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/nodejs.png",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./assets/images/home/technologyStack/typescript.webp",
+        "id": "(sc_client)/./assets/images/home/technologyStack/nodejs.png",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./assets/images/home/technologyStack/photoshop.png": {
+      "*": {
+        "id": "(sc_client)/./assets/images/home/technologyStack/photoshop.png",
+        "name": "*",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./assets/images/home/technologyStack/photoshop.png",
+        "name": "",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./assets/images/home/technologyStack/photoshop.png",
+        "name": "default",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./assets/images/home/technologyStack/php.png": {
+      "*": {
+        "id": "(sc_client)/./assets/images/home/technologyStack/php.png",
+        "name": "*",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./assets/images/home/technologyStack/php.png",
+        "name": "",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./assets/images/home/technologyStack/php.png",
+        "name": "default",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./assets/images/home/technologyStack/python.png": {
+      "*": {
+        "id": "(sc_client)/./assets/images/home/technologyStack/python.png",
+        "name": "*",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./assets/images/home/technologyStack/python.png",
+        "name": "",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./assets/images/home/technologyStack/python.png",
+        "name": "default",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./assets/images/home/technologyStack/react.png": {
+      "*": {
+        "id": "(sc_client)/./assets/images/home/technologyStack/react.png",
+        "name": "*",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./assets/images/home/technologyStack/react.png",
+        "name": "",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./assets/images/home/technologyStack/react.png",
+        "name": "default",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./assets/images/home/technologyStack/sql.png": {
+      "*": {
+        "id": "(sc_client)/./assets/images/home/technologyStack/sql.png",
+        "name": "*",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./assets/images/home/technologyStack/sql.png",
+        "name": "",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./assets/images/home/technologyStack/sql.png",
+        "name": "default",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./assets/images/home/technologyStack/tailwind.png": {
+      "*": {
+        "id": "(sc_client)/./assets/images/home/technologyStack/tailwind.png",
+        "name": "*",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./assets/images/home/technologyStack/tailwind.png",
+        "name": "",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./assets/images/home/technologyStack/tailwind.png",
+        "name": "default",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
@@ -1813,7 +2021,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1821,7 +2029,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1829,7 +2037,33 @@
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "default",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
@@ -1839,7 +2073,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1847,7 +2081,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1855,7 +2089,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1863,7 +2097,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "defaultHead",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1871,7 +2105,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "charSet",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1879,7 +2113,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "name",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1887,7 +2121,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "content",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1895,7 +2129,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"title\"",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1903,7 +2137,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"base\"",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1911,7 +2145,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"meta\"",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1919,7 +2153,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "TODO(prateekbh@)",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1927,7 +2161,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"https",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1935,7 +2169,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "here",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1943,7 +2177,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "https",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1951,7 +2185,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "reduceComponentsToState",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1959,7 +2193,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "headManager",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1967,7 +2201,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "inAmpMode",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       },
@@ -1975,7 +2209,59 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "value",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/Navbar.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/Navbar.tsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/Navbar.tsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/Navbar.tsx",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./app/project/page.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/project/page.tsx",
+        "name": "*",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/project/page.tsx",
+        "name": "",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/project/page.tsx",
+        "name": "default",
+        "chunks": [
+          "app/project/page:static/chunks/app/project/page.js"
         ],
         "async": false
       }
@@ -1983,11 +2269,11 @@
   },
   "edgeSSRModuleMapping": {},
   "cssFiles": {
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/app/layout": [
-      "static/css/app/layout.css"
-    ],
     "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/app/page": [
       "static/css/app/page.css"
+    ],
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/app/layout": [
+      "static/css/app/layout.css"
     ]
   },
   "clientModules": {
@@ -3687,108 +3973,29 @@
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/app/globals.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
     "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/node_modules/next/font/google/target.css?{\"path\":\"constant/font.ts\",\"import\":\"Montserrat\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"100\",\"200\",\"300\",\"400\",\"500\",\"600\",\"700\",\"800\",\"900\"],\"variable\":\"--font-montserrat\",\"display\":\"swap\"}],\"variableName\":\"montserrat\"}#": {
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/app/layout.css",
-        "static/css/app/page.css"
+        "static/css/app/page.css",
+        "static/css/app/layout.css"
       ]
     },
     "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/node_modules/next/font/google/target.css?{\"path\":\"constant/font.ts\",\"import\":\"Poppins\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"100\",\"200\",\"300\",\"400\",\"500\",\"600\",\"700\",\"800\",\"900\"],\"variable\":\"--font-poppins\",\"display\":\"swap\"}],\"variableName\":\"poppins\"}#": {
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/app/layout.css",
-        "static/css/app/page.css"
+        "static/css/app/page.css",
+        "static/css/app/layout.css"
       ]
     },
     "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/node_modules/next/font/local/target.css?{\"path\":\"constant/font.ts\",\"import\":\"\",\"arguments\":[{\"src\":\"../assets/fonts/suarte/Suarte Free.ttf\",\"display\":\"swap\"}],\"variableName\":\"suarte\"}#": {
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/app/layout.css",
-        "static/css/app/page.css"
+        "static/css/app/page.css",
+        "static/css/app/layout.css"
       ]
-    },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/components/Navbar.tsx": {
-      "id": "(app-client)/./components/Navbar.tsx",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/components/Navbar.tsx#": {
-      "id": "(app-client)/./components/Navbar.tsx",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/components/Navbar.tsx#default": {
-      "id": "(app-client)/./components/Navbar.tsx",
-      "name": "default",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/node_modules/next/dist/client/link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/node_modules/next/dist/esm/client/link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/node_modules/next/dist/client/link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/node_modules/next/dist/esm/client/link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/node_modules/next/dist/client/link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/node_modules/next/dist/esm/client/link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
     },
     "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/app/home.module.css#": {
       "id": "null",
@@ -3801,7 +4008,7 @@
       "id": "(app-client)/./assets/images/home/hero/avatar-smile.webp",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3809,7 +4016,7 @@
       "id": "(app-client)/./assets/images/home/hero/avatar-smile.webp",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3817,7 +4024,7 @@
       "id": "(app-client)/./assets/images/home/hero/avatar-smile.webp",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3825,7 +4032,7 @@
       "id": "(app-client)/./assets/images/home/hero/dribble.webp",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3833,7 +4040,7 @@
       "id": "(app-client)/./assets/images/home/hero/dribble.webp",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3841,7 +4048,7 @@
       "id": "(app-client)/./assets/images/home/hero/dribble.webp",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3849,7 +4056,7 @@
       "id": "(app-client)/./assets/images/home/hero/github.webp",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3857,7 +4064,7 @@
       "id": "(app-client)/./assets/images/home/hero/github.webp",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3865,7 +4072,7 @@
       "id": "(app-client)/./assets/images/home/hero/github.webp",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3873,7 +4080,7 @@
       "id": "(app-client)/./assets/images/home/hero/instagram.webp",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3881,7 +4088,7 @@
       "id": "(app-client)/./assets/images/home/hero/instagram.webp",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3889,7 +4096,7 @@
       "id": "(app-client)/./assets/images/home/hero/instagram.webp",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3897,7 +4104,7 @@
       "id": "(app-client)/./assets/images/home/hero/linkedin.webp",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3905,7 +4112,7 @@
       "id": "(app-client)/./assets/images/home/hero/linkedin.webp",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3913,7 +4120,7 @@
       "id": "(app-client)/./assets/images/home/hero/linkedin.webp",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3921,7 +4128,7 @@
       "id": "(app-client)/./assets/images/home/hero/quadrilateral.webp",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3929,7 +4136,7 @@
       "id": "(app-client)/./assets/images/home/hero/quadrilateral.webp",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3937,7 +4144,7 @@
       "id": "(app-client)/./assets/images/home/hero/quadrilateral.webp",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3945,7 +4152,7 @@
       "id": "(app-client)/./assets/images/home/hero/triangle.webp",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3953,7 +4160,7 @@
       "id": "(app-client)/./assets/images/home/hero/triangle.webp",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3961,7 +4168,7 @@
       "id": "(app-client)/./assets/images/home/hero/triangle.webp",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3969,7 +4176,7 @@
       "id": "(app-client)/./assets/images/home/hero/twisted-torus.webp",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3977,7 +4184,7 @@
       "id": "(app-client)/./assets/images/home/hero/twisted-torus.webp",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3985,7 +4192,7 @@
       "id": "(app-client)/./assets/images/home/hero/twisted-torus.webp",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -3993,7 +4200,7 @@
       "id": "(app-client)/./assets/images/home/hero/zig-zag.webp",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4001,7 +4208,7 @@
       "id": "(app-client)/./assets/images/home/hero/zig-zag.webp",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4009,7 +4216,7 @@
       "id": "(app-client)/./assets/images/home/hero/zig-zag.webp",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4017,7 +4224,7 @@
       "id": "(app-client)/./assets/images/home/letsConnect/avatar-big-smile.webp",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4025,7 +4232,7 @@
       "id": "(app-client)/./assets/images/home/letsConnect/avatar-big-smile.webp",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4033,127 +4240,127 @@
       "id": "(app-client)/./assets/images/home/letsConnect/avatar-big-smile.webp",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/dribble.webp": {
-      "id": "(app-client)/./assets/images/home/letsConnect/dribble.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/github.png": {
+      "id": "(app-client)/./assets/images/home/letsConnect/github.png",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/dribble.webp#": {
-      "id": "(app-client)/./assets/images/home/letsConnect/dribble.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/github.png#": {
+      "id": "(app-client)/./assets/images/home/letsConnect/github.png",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/dribble.webp#default": {
-      "id": "(app-client)/./assets/images/home/letsConnect/dribble.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/github.png#default": {
+      "id": "(app-client)/./assets/images/home/letsConnect/github.png",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/github.webp": {
-      "id": "(app-client)/./assets/images/home/letsConnect/github.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/gmail.png": {
+      "id": "(app-client)/./assets/images/home/letsConnect/gmail.png",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/github.webp#": {
-      "id": "(app-client)/./assets/images/home/letsConnect/github.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/gmail.png#": {
+      "id": "(app-client)/./assets/images/home/letsConnect/gmail.png",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/github.webp#default": {
-      "id": "(app-client)/./assets/images/home/letsConnect/github.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/gmail.png#default": {
+      "id": "(app-client)/./assets/images/home/letsConnect/gmail.png",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/gmail.webp": {
-      "id": "(app-client)/./assets/images/home/letsConnect/gmail.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/linkedin.png": {
+      "id": "(app-client)/./assets/images/home/letsConnect/linkedin.png",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/gmail.webp#": {
-      "id": "(app-client)/./assets/images/home/letsConnect/gmail.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/linkedin.png#": {
+      "id": "(app-client)/./assets/images/home/letsConnect/linkedin.png",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/gmail.webp#default": {
-      "id": "(app-client)/./assets/images/home/letsConnect/gmail.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/linkedin.png#default": {
+      "id": "(app-client)/./assets/images/home/letsConnect/linkedin.png",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/instagram.webp": {
-      "id": "(app-client)/./assets/images/home/letsConnect/instagram.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/medium.png": {
+      "id": "(app-client)/./assets/images/home/letsConnect/medium.png",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/instagram.webp#": {
-      "id": "(app-client)/./assets/images/home/letsConnect/instagram.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/medium.png#": {
+      "id": "(app-client)/./assets/images/home/letsConnect/medium.png",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/instagram.webp#default": {
-      "id": "(app-client)/./assets/images/home/letsConnect/instagram.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/medium.png#default": {
+      "id": "(app-client)/./assets/images/home/letsConnect/medium.png",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/linkedin.webp": {
-      "id": "(app-client)/./assets/images/home/letsConnect/linkedin.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/x.png": {
+      "id": "(app-client)/./assets/images/home/letsConnect/x.png",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/linkedin.webp#": {
-      "id": "(app-client)/./assets/images/home/letsConnect/linkedin.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/x.png#": {
+      "id": "(app-client)/./assets/images/home/letsConnect/x.png",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/linkedin.webp#default": {
-      "id": "(app-client)/./assets/images/home/letsConnect/linkedin.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/letsConnect/x.png#default": {
+      "id": "(app-client)/./assets/images/home/letsConnect/x.png",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4161,7 +4368,7 @@
       "id": "(app-client)/./assets/images/home/myLatestProject/figma.webp",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4169,7 +4376,7 @@
       "id": "(app-client)/./assets/images/home/myLatestProject/figma.webp",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4177,31 +4384,127 @@
       "id": "(app-client)/./assets/images/home/myLatestProject/figma.webp",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/myLatestProject/projects/portfolio-website.webp": {
-      "id": "(app-client)/./assets/images/home/myLatestProject/projects/portfolio-website.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/myLatestProject/projects/1.png": {
+      "id": "(app-client)/./assets/images/home/myLatestProject/projects/1.png",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/myLatestProject/projects/portfolio-website.webp#": {
-      "id": "(app-client)/./assets/images/home/myLatestProject/projects/portfolio-website.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/myLatestProject/projects/1.png#": {
+      "id": "(app-client)/./assets/images/home/myLatestProject/projects/1.png",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/myLatestProject/projects/portfolio-website.webp#default": {
-      "id": "(app-client)/./assets/images/home/myLatestProject/projects/portfolio-website.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/myLatestProject/projects/1.png#default": {
+      "id": "(app-client)/./assets/images/home/myLatestProject/projects/1.png",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/myLatestProject/projects/2.png": {
+      "id": "(app-client)/./assets/images/home/myLatestProject/projects/2.png",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/myLatestProject/projects/2.png#": {
+      "id": "(app-client)/./assets/images/home/myLatestProject/projects/2.png",
+      "name": "",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/myLatestProject/projects/2.png#default": {
+      "id": "(app-client)/./assets/images/home/myLatestProject/projects/2.png",
+      "name": "default",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/myLatestProject/projects/3.png": {
+      "id": "(app-client)/./assets/images/home/myLatestProject/projects/3.png",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/myLatestProject/projects/3.png#": {
+      "id": "(app-client)/./assets/images/home/myLatestProject/projects/3.png",
+      "name": "",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/myLatestProject/projects/3.png#default": {
+      "id": "(app-client)/./assets/images/home/myLatestProject/projects/3.png",
+      "name": "default",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/myLatestProject/projects/4.png": {
+      "id": "(app-client)/./assets/images/home/myLatestProject/projects/4.png",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/myLatestProject/projects/4.png#": {
+      "id": "(app-client)/./assets/images/home/myLatestProject/projects/4.png",
+      "name": "",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/myLatestProject/projects/4.png#default": {
+      "id": "(app-client)/./assets/images/home/myLatestProject/projects/4.png",
+      "name": "default",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/myLatestProject/projects/5.png": {
+      "id": "(app-client)/./assets/images/home/myLatestProject/projects/5.png",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/myLatestProject/projects/5.png#": {
+      "id": "(app-client)/./assets/images/home/myLatestProject/projects/5.png",
+      "name": "",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/myLatestProject/projects/5.png#default": {
+      "id": "(app-client)/./assets/images/home/myLatestProject/projects/5.png",
+      "name": "default",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4209,7 +4512,7 @@
       "id": "(app-client)/./assets/images/home/myLatestProject/rocket.webp",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4217,7 +4520,7 @@
       "id": "(app-client)/./assets/images/home/myLatestProject/rocket.webp",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4225,7 +4528,7 @@
       "id": "(app-client)/./assets/images/home/myLatestProject/rocket.webp",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4233,7 +4536,7 @@
       "id": "(app-client)/./assets/images/home/myLatestProject/suitcase.webp",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4241,7 +4544,7 @@
       "id": "(app-client)/./assets/images/home/myLatestProject/suitcase.webp",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4249,7 +4552,7 @@
       "id": "(app-client)/./assets/images/home/myLatestProject/suitcase.webp",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4257,7 +4560,7 @@
       "id": "(app-client)/./assets/images/home/quote/bulb.webp",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4265,7 +4568,7 @@
       "id": "(app-client)/./assets/images/home/quote/bulb.webp",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4273,7 +4576,7 @@
       "id": "(app-client)/./assets/images/home/quote/bulb.webp",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4281,7 +4584,7 @@
       "id": "(app-client)/./assets/images/home/quote/heart.webp",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4289,7 +4592,7 @@
       "id": "(app-client)/./assets/images/home/quote/heart.webp",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4297,7 +4600,7 @@
       "id": "(app-client)/./assets/images/home/quote/heart.webp",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4305,7 +4608,7 @@
       "id": "(app-client)/./assets/images/home/quote/paint-kit.webp",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4313,7 +4616,7 @@
       "id": "(app-client)/./assets/images/home/quote/paint-kit.webp",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4321,7 +4624,7 @@
       "id": "(app-client)/./assets/images/home/quote/paint-kit.webp",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4329,7 +4632,7 @@
       "id": "(app-client)/./assets/images/home/quote/tea-cup.webp",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4337,7 +4640,7 @@
       "id": "(app-client)/./assets/images/home/quote/tea-cup.webp",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4345,271 +4648,415 @@
       "id": "(app-client)/./assets/images/home/quote/tea-cup.webp",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/expo.webp": {
-      "id": "(app-client)/./assets/images/home/technologyStack/expo.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/aws.png": {
+      "id": "(app-client)/./assets/images/home/technologyStack/aws.png",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/expo.webp#": {
-      "id": "(app-client)/./assets/images/home/technologyStack/expo.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/aws.png#": {
+      "id": "(app-client)/./assets/images/home/technologyStack/aws.png",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/expo.webp#default": {
-      "id": "(app-client)/./assets/images/home/technologyStack/expo.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/aws.png#default": {
+      "id": "(app-client)/./assets/images/home/technologyStack/aws.png",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/express-js.webp": {
-      "id": "(app-client)/./assets/images/home/technologyStack/express-js.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/canva.png": {
+      "id": "(app-client)/./assets/images/home/technologyStack/canva.png",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/express-js.webp#": {
-      "id": "(app-client)/./assets/images/home/technologyStack/express-js.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/canva.png#": {
+      "id": "(app-client)/./assets/images/home/technologyStack/canva.png",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/express-js.webp#default": {
-      "id": "(app-client)/./assets/images/home/technologyStack/express-js.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/canva.png#default": {
+      "id": "(app-client)/./assets/images/home/technologyStack/canva.png",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/javascript.webp": {
-      "id": "(app-client)/./assets/images/home/technologyStack/javascript.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/css.png": {
+      "id": "(app-client)/./assets/images/home/technologyStack/css.png",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/javascript.webp#": {
-      "id": "(app-client)/./assets/images/home/technologyStack/javascript.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/css.png#": {
+      "id": "(app-client)/./assets/images/home/technologyStack/css.png",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/javascript.webp#default": {
-      "id": "(app-client)/./assets/images/home/technologyStack/javascript.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/css.png#default": {
+      "id": "(app-client)/./assets/images/home/technologyStack/css.png",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/laravel.webp": {
-      "id": "(app-client)/./assets/images/home/technologyStack/laravel.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/figma.png": {
+      "id": "(app-client)/./assets/images/home/technologyStack/figma.png",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/laravel.webp#": {
-      "id": "(app-client)/./assets/images/home/technologyStack/laravel.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/figma.png#": {
+      "id": "(app-client)/./assets/images/home/technologyStack/figma.png",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/laravel.webp#default": {
-      "id": "(app-client)/./assets/images/home/technologyStack/laravel.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/figma.png#default": {
+      "id": "(app-client)/./assets/images/home/technologyStack/figma.png",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/next-js.webp": {
-      "id": "(app-client)/./assets/images/home/technologyStack/next-js.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/git.png": {
+      "id": "(app-client)/./assets/images/home/technologyStack/git.png",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/next-js.webp#": {
-      "id": "(app-client)/./assets/images/home/technologyStack/next-js.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/git.png#": {
+      "id": "(app-client)/./assets/images/home/technologyStack/git.png",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/next-js.webp#default": {
-      "id": "(app-client)/./assets/images/home/technologyStack/next-js.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/git.png#default": {
+      "id": "(app-client)/./assets/images/home/technologyStack/git.png",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/planet-scale.webp": {
-      "id": "(app-client)/./assets/images/home/technologyStack/planet-scale.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/github.png": {
+      "id": "(app-client)/./assets/images/home/technologyStack/github.png",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/planet-scale.webp#": {
-      "id": "(app-client)/./assets/images/home/technologyStack/planet-scale.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/github.png#": {
+      "id": "(app-client)/./assets/images/home/technologyStack/github.png",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/planet-scale.webp#default": {
-      "id": "(app-client)/./assets/images/home/technologyStack/planet-scale.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/github.png#default": {
+      "id": "(app-client)/./assets/images/home/technologyStack/github.png",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/prisma.webp": {
-      "id": "(app-client)/./assets/images/home/technologyStack/prisma.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/html.png": {
+      "id": "(app-client)/./assets/images/home/technologyStack/html.png",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/prisma.webp#": {
-      "id": "(app-client)/./assets/images/home/technologyStack/prisma.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/html.png#": {
+      "id": "(app-client)/./assets/images/home/technologyStack/html.png",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/prisma.webp#default": {
-      "id": "(app-client)/./assets/images/home/technologyStack/prisma.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/html.png#default": {
+      "id": "(app-client)/./assets/images/home/technologyStack/html.png",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/react-js.webp": {
-      "id": "(app-client)/./assets/images/home/technologyStack/react-js.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/java.png": {
+      "id": "(app-client)/./assets/images/home/technologyStack/java.png",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/react-js.webp#": {
-      "id": "(app-client)/./assets/images/home/technologyStack/react-js.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/java.png#": {
+      "id": "(app-client)/./assets/images/home/technologyStack/java.png",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/react-js.webp#default": {
-      "id": "(app-client)/./assets/images/home/technologyStack/react-js.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/java.png#default": {
+      "id": "(app-client)/./assets/images/home/technologyStack/java.png",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/react-native.webp": {
-      "id": "(app-client)/./assets/images/home/technologyStack/react-native.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/js.png": {
+      "id": "(app-client)/./assets/images/home/technologyStack/js.png",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/react-native.webp#": {
-      "id": "(app-client)/./assets/images/home/technologyStack/react-native.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/js.png#": {
+      "id": "(app-client)/./assets/images/home/technologyStack/js.png",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/react-native.webp#default": {
-      "id": "(app-client)/./assets/images/home/technologyStack/react-native.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/js.png#default": {
+      "id": "(app-client)/./assets/images/home/technologyStack/js.png",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/tailwindcss.webp": {
-      "id": "(app-client)/./assets/images/home/technologyStack/tailwindcss.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/mongodb.png": {
+      "id": "(app-client)/./assets/images/home/technologyStack/mongodb.png",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/tailwindcss.webp#": {
-      "id": "(app-client)/./assets/images/home/technologyStack/tailwindcss.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/mongodb.png#": {
+      "id": "(app-client)/./assets/images/home/technologyStack/mongodb.png",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/tailwindcss.webp#default": {
-      "id": "(app-client)/./assets/images/home/technologyStack/tailwindcss.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/mongodb.png#default": {
+      "id": "(app-client)/./assets/images/home/technologyStack/mongodb.png",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/typescript.webp": {
-      "id": "(app-client)/./assets/images/home/technologyStack/typescript.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/nodejs.png": {
+      "id": "(app-client)/./assets/images/home/technologyStack/nodejs.png",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/typescript.webp#": {
-      "id": "(app-client)/./assets/images/home/technologyStack/typescript.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/nodejs.png#": {
+      "id": "(app-client)/./assets/images/home/technologyStack/nodejs.png",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/typescript.webp#default": {
-      "id": "(app-client)/./assets/images/home/technologyStack/typescript.webp",
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/nodejs.png#default": {
+      "id": "(app-client)/./assets/images/home/technologyStack/nodejs.png",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/photoshop.png": {
+      "id": "(app-client)/./assets/images/home/technologyStack/photoshop.png",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/photoshop.png#": {
+      "id": "(app-client)/./assets/images/home/technologyStack/photoshop.png",
+      "name": "",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/photoshop.png#default": {
+      "id": "(app-client)/./assets/images/home/technologyStack/photoshop.png",
+      "name": "default",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/php.png": {
+      "id": "(app-client)/./assets/images/home/technologyStack/php.png",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/php.png#": {
+      "id": "(app-client)/./assets/images/home/technologyStack/php.png",
+      "name": "",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/php.png#default": {
+      "id": "(app-client)/./assets/images/home/technologyStack/php.png",
+      "name": "default",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/python.png": {
+      "id": "(app-client)/./assets/images/home/technologyStack/python.png",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/python.png#": {
+      "id": "(app-client)/./assets/images/home/technologyStack/python.png",
+      "name": "",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/python.png#default": {
+      "id": "(app-client)/./assets/images/home/technologyStack/python.png",
+      "name": "default",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/react.png": {
+      "id": "(app-client)/./assets/images/home/technologyStack/react.png",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/react.png#": {
+      "id": "(app-client)/./assets/images/home/technologyStack/react.png",
+      "name": "",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/react.png#default": {
+      "id": "(app-client)/./assets/images/home/technologyStack/react.png",
+      "name": "default",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/sql.png": {
+      "id": "(app-client)/./assets/images/home/technologyStack/sql.png",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/sql.png#": {
+      "id": "(app-client)/./assets/images/home/technologyStack/sql.png",
+      "name": "",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/sql.png#default": {
+      "id": "(app-client)/./assets/images/home/technologyStack/sql.png",
+      "name": "default",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/tailwind.png": {
+      "id": "(app-client)/./assets/images/home/technologyStack/tailwind.png",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/tailwind.png#": {
+      "id": "(app-client)/./assets/images/home/technologyStack/tailwind.png",
+      "name": "",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/technologyStack/tailwind.png#default": {
+      "id": "(app-client)/./assets/images/home/technologyStack/tailwind.png",
+      "name": "default",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4737,7 +5184,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4745,7 +5192,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4753,7 +5200,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4761,7 +5208,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4769,7 +5216,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4777,7 +5224,55 @@
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/node_modules/next/dist/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/node_modules/next/dist/esm/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/node_modules/next/dist/client/link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/node_modules/next/dist/esm/client/link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/node_modules/next/dist/client/link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/node_modules/next/dist/esm/client/link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4785,7 +5280,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4793,7 +5288,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4801,7 +5296,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4809,7 +5304,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4817,7 +5312,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4825,7 +5320,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4833,7 +5328,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4841,7 +5336,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4849,7 +5344,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "charSet",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4857,7 +5352,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "charSet",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4865,7 +5360,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "name",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4873,7 +5368,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "name",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4881,7 +5376,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "content",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4889,7 +5384,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "content",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4897,7 +5392,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"title\"",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4905,7 +5400,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"title\"",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4913,7 +5408,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"base\"",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4921,7 +5416,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"base\"",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4929,7 +5424,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"meta\"",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4937,7 +5432,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"meta\"",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4945,7 +5440,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "TODO(prateekbh@)",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4953,7 +5448,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "TODO(prateekbh@)",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4961,7 +5456,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"https",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4969,7 +5464,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"https",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4977,7 +5472,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "here",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4985,7 +5480,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "here",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -4993,7 +5488,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "https",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -5001,7 +5496,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "https",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -5009,7 +5504,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "reduceComponentsToState",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -5017,7 +5512,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "reduceComponentsToState",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -5025,7 +5520,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "headManager",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -5033,7 +5528,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "headManager",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -5041,7 +5536,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "inAmpMode",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -5049,7 +5544,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "inAmpMode",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -5057,7 +5552,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "value",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     },
@@ -5065,7 +5560,62 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "value",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/app/globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/components/Navbar.tsx": {
+      "id": "(app-client)/./components/Navbar.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/components/Navbar.tsx#": {
+      "id": "(app-client)/./components/Navbar.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/components/Navbar.tsx#default": {
+      "id": "(app-client)/./components/Navbar.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/app/project/page.tsx": {
+      "id": "(app-client)/./app/project/page.tsx",
+      "name": "*",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/app/project/page.tsx#": {
+      "id": "(app-client)/./app/project/page.tsx",
+      "name": "",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/app/project/page.tsx#default": {
+      "id": "(app-client)/./app/project/page.tsx",
+      "name": "default",
+      "chunks": [
+        "app/project/page:static/chunks/app/project/page.js"
       ],
       "async": false
     }

@@ -27,7 +27,7 @@ export default function SectionLetsConnect() {
             width: 168,
             height: 168,
             tabIndex: 0,
-            onClick: () => window.open('https://linkedin.com/in/deri-kurniawan', '_blank'),
+            onClick: () => window.open('https://www.linkedin.com/in/darshildhandhiya/', '_blank'),
         },
         {
             initial: { y: 50, opacity: 0 },
@@ -35,12 +35,12 @@ export default function SectionLetsConnect() {
             transition: { duration: 0.5, delay: 0.6 },
             whileHover: { scale: 1.1, transition: { duration: 0.2 } },
             className: "hidden lg:block absolute hover:cursor-pointer top-14 right-14 xl:right-24 w-10 h-10 md:w-[168px] md:h-[168px] z-10",
-            src: assets.home.letsConnect.instagram,
+            src: assets.home.letsConnect.medium,
             alt: "",
             width: 168,
             height: 168,
             tabIndex: 0,
-            onClick: () => window.open('https://instagram.com/deri561', '_blank'),
+            onClick: () => window.open('https://medium.com/@DarshilDhandhiya', '_blank'),
         },
         {
             initial: { y: -50, opacity: 0 },
@@ -53,7 +53,7 @@ export default function SectionLetsConnect() {
             width: 168,
             height: 168,
             tabIndex: 0,
-            onClick: () => window.open('https://github.com/deri-kurniawan', '_blank')
+            onClick: () => window.open('https://github.com/DarshilDhandhiya', '_blank')
         },
         {
             initial: { y: -50, opacity: 0 },
@@ -61,12 +61,12 @@ export default function SectionLetsConnect() {
             transition: { duration: 0.5, delay: 0.8 },
             whileHover: { scale: 1.1, transition: { duration: 0.2 } },
             className: "hidden lg:block absolute hover:cursor-pointer bottom-14 left-36 xl:left-44 md:left-24 w-10 h-10 md:w-[168px] md:h-[168px] z-10",
-            src: assets.home.letsConnect.dribble,
+            src: assets.home.letsConnect.x,
             alt: "",
             width: 168,
             height: 168,
             tabIndex: 0,
-            onClick: () => window.open('https://dribbble.com/deri-kurniawan', '_blank')
+            onClick: () => window.open('https://x.com/Darshil03', '_blank')
         },
         {
             initial: { y: 100, opacity: 0 },
@@ -79,7 +79,7 @@ export default function SectionLetsConnect() {
             width: 310,
             height: 310,
             tabIndex: 0,
-            onClick: () => window.open('mailto:deri.netuchi@gmail.com', "_self")
+            onClick: () => window.open('mailto:darshil.dhandhiya03@gmail.com', "_self")
         }
 
     ]

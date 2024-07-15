@@ -10,60 +10,77 @@ import styles from "./home.module.css";
 
 const technologyStack = [
     {
-        name: 'Next JS',
-        image: assets.home.technologyStack.nextJs,
-        officialSite: 'https://nextjs.org/',
+        name: "JAVA",
+        image: assets.home.technologyStack.java,
     },
     {
-        name: 'Laravel',
-        image: assets.home.technologyStack.laravel,
-        officialSite: 'https://laravel.com/',
+        name: "Python",
+        image: assets.home.technologyStack.python,
     },
     {
-        name: 'Expo',
-        image: assets.home.technologyStack.expo,
-        officialSite: 'https://expo.dev/',
+        name: "HTML",
+        image: assets.home.technologyStack.html,
     },
     {
-        name: 'Prisma',
-        image: assets.home.technologyStack.prisma,
-        officialSite: 'https://www.prisma.io/',
-    },
-    {
-        name: "Express JS",
-        image: assets.home.technologyStack.expressJs,
-        officialSite: 'https://expressjs.com/',
-    },
-    {
-        name: "Planet Scale",
-        image: assets.home.technologyStack.planetScale,
-        officialSite: 'https://planetscale.com/',
+        name: "CSS",
+        image: assets.home.technologyStack.css,
     },
     {
         name: "Javascript",
-        image: assets.home.technologyStack.javascript,
-        officialSite: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript',
+        image: assets.home.technologyStack.js,
+    },
+    {
+        name: 'Tailwind',
+        image: assets.home.technologyStack.tailwind,
     },
     {
         name: "React JS",
-        image: assets.home.technologyStack.reactJs,
-        officialSite: 'https://reactjs.org/',
+        image: assets.home.technologyStack.react,
     },
     {
-        name: "Tailwind CSS",
-        image: assets.home.technologyStack.tailwindCss,
-        officialSite: 'https://tailwindcss.com/',
+        name: "Node JS",
+        image: assets.home.technologyStack.nodejs,
     },
     {
-        name: "React Native",
-        image: assets.home.technologyStack.reactNative,
-        officialSite: 'https://reactnative.dev/',
+        name: "Mongo DB",
+        image: assets.home.technologyStack.mongodb,
     },
     {
-        name: "Typescript",
-        image: assets.home.technologyStack.typescript,
-        officialSite: 'https://www.typescriptlang.org/',
-    }
+        name: "Node JS",
+        image: assets.home.technologyStack.nodejs,
+    },
+    {
+        name: "PHP",
+        image: assets.home.technologyStack.php,
+    },
+    {
+        name: "SQL",
+        image: assets.home.technologyStack.sql,
+    },
+    {
+        name: "GIT",
+        image: assets.home.technologyStack.git,
+    },
+    {
+        name: "GitHub",
+        image: assets.home.technologyStack.github,
+    },
+    {
+        name: "AWS",
+        image: assets.home.technologyStack.aws,
+    },
+    {
+        name: "figma",
+        image: assets.home.technologyStack.figma,
+    },
+    {
+        name: "Canva",
+        image: assets.home.technologyStack.canva,
+    },
+    {
+        name: "Photoshop",
+        image: assets.home.technologyStack.photoshop,
+    },
 ]
 
 export default function SectionTechnologyStack() {
@@ -109,11 +126,6 @@ export default function SectionTechnologyStack() {
                                     target="_blank"
                                     title={`Figure out about ${item.name}`}
                                 >
-                                    <div className="absolute top-0 left-0 flex items-center justify-center w-full h-full p-1 text-white transition-all duration-300 bg-opacity-50 opacity-0 gradient-bg hover:opacity-100 rounded-xl">
-                                        <p className='font-semibold text-center line-clamp-3'>
-                                            {item.name}
-                                        </p>
-                                    </div>
                                 </Link>
                             </motion.div>
                         </div>
