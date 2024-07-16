@@ -768,32 +768,6 @@
         "async": false
       }
     },
-    "(app-client)/./assets/images/home/hero/dribble.webp": {
-      "*": {
-        "id": "(sc_client)/./assets/images/home/hero/dribble.webp",
-        "name": "*",
-        "chunks": [
-          "app/project/page:static/chunks/app/project/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./assets/images/home/hero/dribble.webp",
-        "name": "",
-        "chunks": [
-          "app/project/page:static/chunks/app/project/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./assets/images/home/hero/dribble.webp",
-        "name": "default",
-        "chunks": [
-          "app/project/page:static/chunks/app/project/page.js"
-        ],
-        "async": false
-      }
-    },
     "(app-client)/./assets/images/home/hero/github.webp": {
       "*": {
         "id": "(sc_client)/./assets/images/home/hero/github.webp",
@@ -4022,30 +3996,6 @@
     },
     "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/hero/avatar-smile.webp#default": {
       "id": "(app-client)/./assets/images/home/hero/avatar-smile.webp",
-      "name": "default",
-      "chunks": [
-        "app/project/page:static/chunks/app/project/page.js"
-      ],
-      "async": false
-    },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/hero/dribble.webp": {
-      "id": "(app-client)/./assets/images/home/hero/dribble.webp",
-      "name": "*",
-      "chunks": [
-        "app/project/page:static/chunks/app/project/page.js"
-      ],
-      "async": false
-    },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/hero/dribble.webp#": {
-      "id": "(app-client)/./assets/images/home/hero/dribble.webp",
-      "name": "",
-      "chunks": [
-        "app/project/page:static/chunks/app/project/page.js"
-      ],
-      "async": false
-    },
-    "/Users/darshildhandhiya/Documents/Study/Projects/Portfolio/assets/images/home/hero/dribble.webp#default": {
-      "id": "(app-client)/./assets/images/home/hero/dribble.webp",
       "name": "default",
       "chunks": [
         "app/project/page:static/chunks/app/project/page.js"
