@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
-import { BsDribbble, BsGithub } from "react-icons/bs";
+import { Bsx, BsGithub } from "react-icons/bs";
 import { IoMdOpen } from "react-icons/io";
 import { useInView } from "react-intersection-observer";
 
@@ -198,7 +198,7 @@ const initialProjects = [
         slug: 'portfolio-web-design',
         title: 'Portfolio Web Design',
         image: assets.home.myLatestProject.projects.portfolioWebsite,
-        repositoryUrl: "https://dribbble.com/shots/21642242-3D-Theme-Portfolio-Website?utm_source=Clipboard_Shot&utm_campaign=deri-kurniawan&utm_content=3D%20Theme%20Portfolio%20Website&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=deri-kurniawan&utm_content=3D%20Theme%20Portfolio%20Website&utm_medium=Social_Share",
+        repositoryUrl: "https://x.com/shots/21642242-3D-Theme-Portfolio-Website?utm_source=Clipboard_Shot&utm_campaign=deri-kurniawan&utm_content=3D%20Theme%20Portfolio%20Website&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=deri-kurniawan&utm_content=3D%20Theme%20Portfolio%20Website&utm_medium=Social_Share",
         demoUrl: "https://www.figma.com/proto/TYBBBbA5cvBN4QU70hNxvr/DK-PORTFOLIO?node-id=1-2&scaling=scale-down-width",
         summary: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
         techStacks: [
@@ -312,7 +312,7 @@ export default function Project() {
                                                 {project.category.slug === 'design' ? (
                                                     <>
                                                         <span>Dribble</span>
-                                                        <BsDribbble />
+                                                        <Bsx />
                                                     </>
                                                 ) : (
                                                     <>
