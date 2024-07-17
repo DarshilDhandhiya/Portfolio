@@ -17,6 +17,10 @@ const navlinks = [
         name: "Project",
         href: "/project",
     },
+    {
+        name: "Blog",
+        href: "/blog",
+    },
 ];
 
 export default function Navbar(): JSX.Element {
@@ -86,7 +90,7 @@ export default function Navbar(): JSX.Element {
                             ))}
 
                         </ul>
-                        <a className='px-6 py-2 text-white gradient-btn rounded-xl' href="./resume.pdf" download="Darshil Dhandhiya Resume">Resume</a>
+                        <a className='px-6 py-2 text-white gradient-btn rounded-xl' href="/" download="Deri Kurniawan Resume">Resume</a>
                     </div>
                     {/* mobile hamburger menu */}
                     <div className="z-50 md:hidden">
@@ -125,9 +129,9 @@ export default function Navbar(): JSX.Element {
                         ))}
                         <li className="flex text-white rounded-lg gradient-bg">
                             <a
-                                href="./resume.pdf"
+                                href="/"
                                 className="flex-1 py-4 safe-x-padding"
-                                download="Darshil Dhandhiya Resume"
+                                download="Deri Kurniawan Resume"
                             >
                                 <div className="flex items-center justify-between">
                                     <span className='text-2xl font-semibold'>Resume</span>

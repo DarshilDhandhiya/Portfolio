@@ -22,83 +22,204 @@ const categories = [
 
 const projectTypes = [
     {
-        slug: 'Website',
-        name: 'Website',
+        slug: 'case-study',
+        name: 'Case Study',
     },
     {
-        slug: 'Chrome Extension',
-        name: 'Chrome Extension',
+        slug: 'real-project',
+        name: 'Real Project',
     }
 ]
 
 const initialProjects = [
     {
         slug: 'transform-portfolio-design-to-web-app-1',
-        title: 'Student Portal',
-        image: assets.home.myLatestProject.projects.two,
-        repositoryUrl: "https://github.com/DarshilDhandhiya/Student_Portal",
-        demoUrl: "https://student-portal-liard.vercel.app/",
-        summary: 'Developed a student portal using PHP for efficient access to schedules, news, library books, and resumes',
+        title: 'Transform Portfolio Design to Web App',
+        image: assets.home.myLatestProject.projects.portfolioWebsite,
+        repositoryUrl: "https://github.com/deri-kurniawan/portfolio",
+        demoUrl: "https://deri.my.id",
+        summary: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
+        techStacks: [
+            {
+                name: 'Next JS',
+                imageUrl: 'https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png',
+                webUrl: 'https://nextjs.org/'
+            },
+            {
+                name: 'React JS',
+                imageUrl: 'https://img.icons8.com/?size=512&id=123603&format=png',
+                webUrl: 'https://reactjs.org/'
+            },
+            {
+                name: 'Node JS',
+                imageUrl: 'https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png',
+                webUrl: 'https://nodejs.org/en/'
+            },
+        ],
         projectType: projectTypes[0],
         category: categories[0]
     },
     {
         slug: 'transform-portfolio-design-to-web-app-2',
-        title: 'E Learning Empowering Education',
-        image: assets.home.myLatestProject.projects.three,
-        repositoryUrl: "https://github.com/DarshilDhandhiya/E-Learning_Empowering-Education",
-        demoUrl: "https://e-learning-empowering-education.vercel.app/",
-        summary: 'Created a React.js educational platform with Docs, Video Courses, Student Dashboard, and Media.',
+        title: 'Portfolio 2',
+        image: assets.home.myLatestProject.projects.portfolioWebsite,
+        repositoryUrl: "https://github.com/deri-kurniawan/portfolio",
+        demoUrl: "https://deri.my.id",
+        summary: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
+        techStacks: [
+            {
+                name: 'Next JS',
+                imageUrl: 'https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png',
+                webUrl: 'https://nextjs.org/'
+            },
+            {
+                name: 'React JS',
+                imageUrl: 'https://img.icons8.com/?size=512&id=123603&format=png',
+                webUrl: 'https://reactjs.org/'
+            },
+            {
+                name: 'Node JS',
+                imageUrl: 'https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png',
+                webUrl: 'https://nodejs.org/en/'
+            },
+        ],
         projectType: projectTypes[0],
         category: categories[0]
     },
     {
         slug: 'transform-portfolio-design-to-web-app-3',
-        title: 'Amazon Clone',
-        image: assets.home.myLatestProject.projects.one,
-        repositoryUrl: "https://github.com/DarshilDhandhiya/Amazon_Clone",
-        demoUrl: "https://amazon-clone-gray-gamma.vercel.app/",
+        title: 'Portfolio 3',
+        image: assets.home.myLatestProject.projects.portfolioWebsite,
+        repositoryUrl: "https://github.com/deri-kurniawan/portfolio",
+        demoUrl: "https://deri.my.id",
         summary: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
+        techStacks: [
+            {
+                name: 'Next JS',
+                imageUrl: 'https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png',
+                webUrl: 'https://nextjs.org/'
+            },
+            {
+                name: 'React JS',
+                imageUrl: 'https://img.icons8.com/?size=512&id=123603&format=png',
+                webUrl: 'https://reactjs.org/'
+            },
+            {
+                name: 'Node JS',
+                imageUrl: 'https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png',
+                webUrl: 'https://nodejs.org/en/'
+            },
+        ],
         projectType: projectTypes[0],
         category: categories[0]
     },
     {
         slug: 'transform-portfolio-design-to-web-app-4',
-        title: 'PicQuest Image Hunt',
-        image: assets.home.myLatestProject.projects.four,
-        repositoryUrl: "https://github.com/DarshilDhandhiya/PicQuest-Image-Hunt",
-        demoUrl: "https://pic-quest.vercel.app/",
-        summary: 'Utilized Unsplash API in a React.js project to search and display images based on user queries.',
+        title: 'Portfolio 4',
+        image: assets.home.myLatestProject.projects.portfolioWebsite,
+        repositoryUrl: "https://github.com/deri-kurniawan/portfolio",
+        demoUrl: "https://deri.my.id",
+        summary: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
+        techStacks: [
+            {
+                name: 'Next JS',
+                imageUrl: 'https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png',
+                webUrl: 'https://nextjs.org/'
+            },
+            {
+                name: 'React JS',
+                imageUrl: 'https://img.icons8.com/?size=512&id=123603&format=png',
+                webUrl: 'https://reactjs.org/'
+            },
+            {
+                name: 'Node JS',
+                imageUrl: 'https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png',
+                webUrl: 'https://nodejs.org/en/'
+            },
+        ],
         projectType: projectTypes[0],
         category: categories[0]
     },
     {
         slug: 'transform-portfolio-design-to-web-app-5',
-        title: 'Weather API',
-        image: assets.home.myLatestProject.projects.five,
-        repositoryUrl: "https://github.com/DarshilDhandhiya/Weather-API",
-        demoUrl: "https://darshil-weather-api.vercel.app/",
-        summary: 'Built a React.js project displaying real-time weather data for a user-friendly experience.',
+        title: 'Portfolio 5',
+        image: assets.home.myLatestProject.projects.portfolioWebsite,
+        repositoryUrl: "https://github.com/deri-kurniawan/portfolio",
+        demoUrl: "https://deri.my.id",
+        summary: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
+        techStacks: [
+            {
+                name: 'Next JS',
+                imageUrl: 'https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png',
+                webUrl: 'https://nextjs.org/'
+            },
+            {
+                name: 'React JS',
+                imageUrl: 'https://img.icons8.com/?size=512&id=123603&format=png',
+                webUrl: 'https://reactjs.org/'
+            },
+            {
+                name: 'Node JS',
+                imageUrl: 'https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png',
+                webUrl: 'https://nodejs.org/en/'
+            },
+        ],
         projectType: projectTypes[0],
         category: categories[0]
     },
     {
         slug: 'transform-portfolio-design-to-web-app-6',
-        title: 'Blinkify',
-        image: assets.home.myLatestProject.projects.one,
-        repositoryUrl: "https://github.com/DarshilDhandhiya/Blinkify",
+        title: 'Portfolio 6',
+        image: assets.home.myLatestProject.projects.portfolioWebsite,
+        repositoryUrl: "https://github.com/deri-kurniawan/portfolio",
+        demoUrl: "https://deri.my.id",
         summary: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
-        projectType: projectTypes[1],
+        techStacks: [
+            {
+                name: 'Next JS',
+                imageUrl: 'https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png',
+                webUrl: 'https://nextjs.org/'
+            },
+            {
+                name: 'React JS',
+                imageUrl: 'https://img.icons8.com/?size=512&id=123603&format=png',
+                webUrl: 'https://reactjs.org/'
+            },
+            {
+                name: 'Node JS',
+                imageUrl: 'https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png',
+                webUrl: 'https://nodejs.org/en/'
+            },
+        ],
+        projectType: projectTypes[0],
         category: categories[0]
     },
     {
-        slug: 'transform-portfolio-design-to-web-app-6',
-        title: 'LaughLoom',
-        image: assets.home.myLatestProject.projects.one,
-        repositoryUrl: "https://github.com/DarshilDhandhiya/LaughLoom",
-        summary: 'Created a Chrome extension delivering fresh jokes, improving user browsing experience.',
+        slug: 'portfolio-web-design',
+        title: 'Portfolio Web Design',
+        image: assets.home.myLatestProject.projects.portfolioWebsite,
+        repositoryUrl: "https://dribbble.com/shots/21642242-3D-Theme-Portfolio-Website?utm_source=Clipboard_Shot&utm_campaign=deri-kurniawan&utm_content=3D%20Theme%20Portfolio%20Website&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=deri-kurniawan&utm_content=3D%20Theme%20Portfolio%20Website&utm_medium=Social_Share",
+        demoUrl: "https://www.figma.com/proto/TYBBBbA5cvBN4QU70hNxvr/DK-PORTFOLIO?node-id=1-2&scaling=scale-down-width",
+        summary: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
+        techStacks: [
+            {
+                name: 'Next JS',
+                imageUrl: 'https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png',
+                webUrl: 'https://nextjs.org/'
+            },
+            {
+                name: 'React JS',
+                imageUrl: 'https://img.icons8.com/?size=512&id=123603&format=png',
+                webUrl: 'https://reactjs.org/'
+            },
+            {
+                name: 'Node JS',
+                imageUrl: 'https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png',
+                webUrl: 'https://nodejs.org/en/'
+            },
+        ],
         projectType: projectTypes[1],
-        category: categories[0]
+        category: categories[1]
     },
 ]
 
@@ -135,7 +256,25 @@ export default function Project() {
                                     </div>
                                     <div className="absolute bottom-0 left-0 px-6 py-3">
                                         <div className="flex flex-row flex-wrap gap-x-4">
-                                            
+                                            {project.techStacks.map((techStack, index) => (
+                                                <motion.div
+                                                    key={index}
+                                                    initial={{ opacity: 0 }}
+                                                    animate={inView ? { opacity: 1 } : {}}
+                                                    transition={{ duration: 1, delay: 0.5 + (index * 0.1) }}
+                                                    className="p-1 bg-white border-[0.5px] border-gray/70 rounded-full hover:cursor-help"
+                                                >
+                                                    <Image
+                                                        src={techStack.imageUrl}
+                                                        alt={`${techStack.name} icon`}
+                                                        loader={({ src }) => src}
+                                                        width={36}
+                                                        height={36}
+                                                        title={techStack.name}
+                                                        unoptimized
+                                                    />
+                                                </motion.div>
+                                            ))}
                                         </div>
                                     </div>
                                 </div>
