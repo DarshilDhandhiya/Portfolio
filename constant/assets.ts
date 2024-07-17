@@ -2,6 +2,7 @@ export const assets = {
   home: {
     hero: {
       avatarSmile: require("@images/home/hero/avatar-smile.webp"),
+      dribble: require("@images/home/hero/dribble.webp"),
       github: require("@images/home/hero/github.webp"),
       instagram: require("@images/home/hero/instagram.webp"),
       linkedin: require("@images/home/hero/linkedin.webp"),
