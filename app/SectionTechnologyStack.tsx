@@ -116,7 +116,7 @@ export default function SectionTechnologyStack() {
                                 />
                                 <Link
                                     href={{
-                                        pathname: item.officialSite,
+                                        pathname: item.name,
                                         query: {
                                             utm_source: 'deri.my.id',
                                             utm_medium: 'campaign',
